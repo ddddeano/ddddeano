@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddddeano
-- 👀 I’m interested in SwiftU, Wordpress
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on SwiftUI and Wordpress
+- 👀 I’m interested in SwiftU, Nuxt3
+- 🌱 I’m currently studying Nuxt3
+- 💞️ I’m looking to collaborate on Nuxt3 
 - 📫 How to reach me Here!!
 
 <!---
