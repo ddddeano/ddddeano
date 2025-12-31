@@ -3,7 +3,7 @@
 I’m the creator of **FIReUX** — a modular, multi-tenant SaaS architecture built on **Nuxt + Firebase**.  
 My work sits at the intersection of framework design, ecosystem building, and real-world product development.
 
-FIReUX is not just a library — it’s a foundation.  
+FIReUX is not just a library — it’s a foundation and the fuel to ignite any Saas ecosystem.  
 I design the systems that power connected apps like **Misebox**, **Cleanbox**, and future ecosystems built on shared domains such as profiles, jobs, agents, tasks, locations, teams, and more.
 
 My role spans:
